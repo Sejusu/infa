@@ -1,1 +1,2 @@
 # infa
+print("Hello world")
